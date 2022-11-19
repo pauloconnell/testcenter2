@@ -207,11 +207,12 @@ h2 {
 
 /* Test Center */
 body{
-  display:grid;         background:url("https://images.vailresorts.com/image/upload/c_scale,dpr_1.0,f_auto,q_auto,w_600/v1/Whistler%20Blackcomb/Products/600x350%20retail/TestCentre-PaulMorrison_20140312_wb_crystal_0580.jpg");
+  display:grid;         
+  background:url("https://dam-assets.vailresorts.com/is/image/vailresorts/20200109_WB_Winton_001:Large-Hero?resMode=sharp2&w=2880&h=900&wid=1903");
   background-attachment:fixed;
   background-position:center;
   background-repeat:no-repeat;
-  background-size:100%;
+  background-size: stretch;
      }
 
 h1{
