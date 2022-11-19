@@ -16,8 +16,8 @@
     "cors": "^2.8.5",
     "mongoose": "^6.0.11",
     "express-validator": "^6.13.0",
-    "jquery": "^3.6.1"
-   
+    "jquery": "^3.6.1",
+    "vue": "^3.2.45"
   },
   "engines": {
     "node": "12.x"
